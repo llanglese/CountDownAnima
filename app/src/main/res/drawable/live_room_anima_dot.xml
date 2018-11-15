@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><!--Copyright (c) 2018 拓幻科技 - tillusory.cn. All rights reserved.-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <gradient
+        android:angle="-225"
+        android:endColor="#B283F5"
+        android:centerColor="#8D53E0"
+        android:startColor="#9158E2"
+        android:type="linear" />
+    <size
+        android:width="16dp"
+        android:height="16dp" />
+</shape>
